@@ -60,7 +60,7 @@ Open your browser and navigate to http://localhost:5000
 
 
 ##   Use the deployed application
-
+*   The link is https://schoolserver-w84p.onrender.com
 #   Student account
 *   Roll Number:    20240629
 *   Password:       1234
@@ -70,4 +70,3 @@ Open your browser and navigate to http://localhost:5000
 #   Teacher
 *   email:          adeyemi@gmail.com
 *   password:       adeyemi
-
