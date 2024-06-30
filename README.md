@@ -57,3 +57,17 @@ Open your browser and navigate to http://localhost:5000
 *   Sign into your admin account with your email and password by hitting the admin button in the profile dropdown list at the top right corner of the home page.
 
 *   Other users such as teachers and parents can also login with their email and password while students can login with their roll number and password.
+
+
+##   Use the deployed application
+
+#   Student account
+*   Roll Number:    20240629
+*   Password:       1234
+#   Parent account
+*   email:          homer@hotmail.com
+*   password:       homer
+#   Teacher
+*   email:          adeyemi@gmail.com
+*   password:       adeyemi
+
